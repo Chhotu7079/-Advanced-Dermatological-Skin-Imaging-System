@@ -22,17 +22,7 @@ This project aims to assist in **early detection** of skin cancer and other derm
 - **Dataset:** HAM10000 (Human Against Machine with 10000 training images)  
 - **Deployment:** (Optional - specify if used Heroku, AWS, etc.)
 
----
 
-## 📂 Project Structure
-├── sc_detector/
-│ ├── data/ # Dataset (use Git LFS or external link)
-│ ├── model/ # Trained ML model
-│ ├── static/ # CSS, JS, Images
-│ ├── templates/ # HTML Templates
-│ ├── app.py # Flask application
-│ └── requirements.txt # Dependencies
-└── README.md
 
 
 📊 Dataset
