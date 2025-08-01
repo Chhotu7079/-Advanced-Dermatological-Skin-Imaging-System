@@ -26,9 +26,7 @@ This project aims to assist in **early detection** of skin cancer and other derm
 
 
 📊 Dataset
-
 Due to GitHub file size limitations, the dataset is not included in the repository.
-
 You can download the HAM10000 dataset from Kaggle and place it inside the sc_detector/data folder.
 
 📌 Future Enhancements
@@ -40,10 +38,4 @@ You can download the HAM10000 dataset from Kaggle and place it inside the sc_det
 
 🔹 Mobile app integration
 
-🧑‍💻 Author
 
-Chhotu Kumar
-
-📍 Raipur, Chhattisgarh, India
-
-📧 chhotuhlp7079@gmail.com
