@@ -23,13 +23,11 @@ This project aims to assist in **early detection** of skin cancer and other derm
 - **Deployment:** (Optional - specify if used Heroku, AWS, etc.)
 
 
-
-
-##📊 Dataset
-Due to GitHub file size limitations, the dataset is not included in the repository.
+## 📊 Dataset
+Due to GitHub file size limitations, the dataset is not included in the repository.  
 You can download the HAM10000 dataset from Kaggle and place it inside the sc_detector/data folder.
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 🔹 Integration with cloud deployment (AWS, GCP, etc.)
 
 🔹 Improving model accuracy with transfer learning (ResNet, EfficientNet)
